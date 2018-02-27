@@ -1,6 +1,6 @@
 # game-of-life
 
-A Javascript implementation of Conway's Game of Life. (under construction)
+A Javascript implementation of Conway's Game of Life.
 
 **Technologies: HTML, CSS, JS**
 
