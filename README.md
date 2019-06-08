@@ -1,4 +1,4 @@
-# game-of-life
+# game of life
 
 A Javascript implementation of Conway's Game of Life.
 
